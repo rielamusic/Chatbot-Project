@@ -8,7 +8,6 @@ This is a simple desktop chatbot built with Python and Tkinter, powered by [Cohe
 ### 📸 Demo
 c:\Users\Lenovo\OneDrive\Pictures\Screenshots\chatbot ss.png
 
-
 ---
 
 ## 🚀 Features
@@ -37,14 +36,14 @@ cd cohere-chatbot
 pip install -r requirements.txt
 python chatbot.py
 
-##🧠 Sample Output
+##  🧠 Sample Output
 You: Hello!
 Bot: Hi there! How can I help you today?
 
-##📬 Contact
+##  📬 Contact
 Created by Nagul PJ — feel free to connect!
 
-##🏷️ Tags
+##  🏷️ Tags
 #AI #Python #Cohere #Tkinter #LLM #Chatbot #DesktopApp
 ---
 
