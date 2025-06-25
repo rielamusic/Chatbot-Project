@@ -35,6 +35,7 @@ git clone https://github.com/yourusername/cohere-chatbot.git
 cd cohere-chatbot
 pip install -r requirements.txt
 python chatbot.py
+'''
 
 ##  🧠 Sample Output
 You: Hello!
