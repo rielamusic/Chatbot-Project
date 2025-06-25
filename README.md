@@ -36,3 +36,18 @@ git clone https://github.com/yourusername/cohere-chatbot.git
 cd cohere-chatbot
 pip install -r requirements.txt
 python chatbot.py
+
+##🧠 Sample Output
+You: Hello!
+Bot: Hi there! How can I help you today?
+
+##📬 Contact
+Created by Nagul PJ — feel free to connect!
+
+##🏷️ Tags
+#AI #Python #Cohere #Tkinter #LLM #Chatbot #DesktopApp
+---
+
+
+
+
